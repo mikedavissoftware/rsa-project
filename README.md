@@ -6,5 +6,5 @@ This was an individual project for my Discrete Math class at CU Boulder. I reall
 I was sure to comment thoroughly throughout the project document. To run:
 
 ```
-python3 entire_project.py
+python3 master_doc.py
 ```
