@@ -1,5 +1,4 @@
 import random #we use this package to randomly determine the value of e for our public key
-import time
 
 def Convert_Binary_String(_int):
     """
