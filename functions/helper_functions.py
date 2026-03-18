@@ -1,3 +1,6 @@
+from functions.extended_euclidean_algorithm import EEA
+from functions.decode import Decode
+
 def factorize(n):
     for i in range(2, n-1):
         if n % i == 0:
