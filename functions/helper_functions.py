@@ -1,5 +1,6 @@
 from functions.extended_euclidean_algorithm import EEA
 from functions.decode import Decode
+from master_doc import n
 
 def factorize(n):
     for i in range(2, n-1):
